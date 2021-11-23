@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tasks>
+    <models>
+        <assignedTo>Ioan</assignedTo>
+        <description>zy</description>
+        <id>b8c2855b-f860-4217-a6e9-158a82e32baf</id>
+        <severity>NORMAL</severity>
+        <status>CLOSED</status>
+        <title>one</title>
+    </models>
+    <models>
+        <assignedTo>Ioan</assignedTo>
+        <description>zy</description>
+        <id>f50f6320-af6d-4a18-866f-c04173fa5fdd</id>
+        <severity>NORMAL</severity>
+        <status>CLOSED</status>
+        <title>three</title>
+    </models>
+    <models>
+        <assignedTo>Ioan</assignedTo>
+        <description>zy</description>
+        <id>e61cb80c-4b33-455b-abc6-792aabd71eeb</id>
+        <severity>NORMAL</severity>
+        <status>CLOSED</status>
+        <title>two</title>
+    </models>
+    <models>
+        <assignedTo>Ioan</assignedTo>
+        <description>zy</description>
+        <id>49982075-2647-4515-9070-9681afd732bf</id>
+        <severity>NORMAL</severity>
+        <status>CLOSED</status>
+        <title>MyTitle4</title>
+    </models>
+    <models>
+        <assignedTo>Vasile</assignedTo>
+        <description>abc</description>
+        <id>3a66c565-3a78-4ede-b4aa-ccc57dc4d343</id>
+        <severity>LOW</severity>
+        <status>CLOSED</status>
+        <title>MyTitle3</title>
+    </models>
+</tasks>
